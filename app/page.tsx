@@ -194,11 +194,11 @@ export default function Home() {
                   username="akshw"
                   blockMargin={1}
                   colorPallete={[
-                    "#181818",
-                    "#252525",
-                    "#404040",
-                    "#a6a6a6",
-                    "#f2f2f2",
+                    "#161b22", // Darkest green (almost black/navy)
+                    "#0e4429", // Very dark green
+                    "#006d32", // Dark green
+                    "#26a641", // Medium green
+                    "#39d353",
                   ]}
                 />
               </div>
